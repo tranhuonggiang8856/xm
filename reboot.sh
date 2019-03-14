@@ -1,1 +1,1 @@
-sleep 45m; sudo reboot -f
+sleep 5m; sudo reboot -f
